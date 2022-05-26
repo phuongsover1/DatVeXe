@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/main/DAO/VeXeDAOImpl.java=UTF-8
+encoding//src/main/java/com/main/controller/HomeController.java=UTF-8
+encoding//src/main/java/com/main/controller/LoginController.java=UTF-8
+encoding//src/main/java/com/main/controller/NhanVienController.java=UTF-8
+encoding//src/main/java/com/main/controller/UserController.java=UTF-8
+encoding//src/main/java/com/main/controller/VeXeController.java=UTF-8
+encoding//src/main/java/com/main/entity/Chuyen_Xe.java=UTF-8
+encoding//src/main/java/com/main/entity/Nhan_Vien.java=UTF-8
+encoding//src/main/java/com/main/entity/Tuyen_Xe.java=UTF-8
+encoding//src/main/java/com/main/entity/Ve_Xe.java=UTF-8
+encoding//src/main/webapp/WEB-INF/view/authentication/login.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/view/authentication/register.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/view/footer.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/view/header.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/view/index.jsp=UTF-8
